@@ -21,33 +21,33 @@
 ## Демонстрация функционала
 ### Открытие счёта
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/787793f5-8df4-48fb-bbf9-583ac21ffdf5" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/26dbaeca-0c3a-4391-bc18-548cbe43adf7" />
 
 ---
 ### Пополнение/снятие и история транзакций
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/af458ef1-5858-4586-8e66-77a7e6ba5d1c" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/e2f7c7b7-c874-4480-a22c-204943c5b191" />
 
 ---
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/d9e219da-7843-42e1-8df2-71ca1762333a" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/689f7b4f-73a4-47cd-b77e-e4625b7d0a90" />
 
 ---
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/cea9486b-5aec-44cc-bf1a-bf5969543b3e" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/2f9b21a7-7c42-40a3-bd2b-6d4c235774a1" />
 
 ---
 ### Проверка на корректность введённых данных
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/a18a6916-c86d-4410-81bc-a0ca141fd586" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/3fbe32c0-24a7-41ce-bf1e-51f197a41159" />
 
 ---
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/d8af0a2b-f4b9-4b27-934a-a017fec1eab5" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/3dfe3bf0-04a5-45dc-ae23-9431b7b62794" />
 
 ---
 ### Поиск по атрибуту
   
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/f1cb54b4-924d-42dd-bb6a-a50174410d65" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/79cc5b90-8622-48aa-812c-6d60ec028ab0" />
 
 ### Экспорт транзакций в CSV
   
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/9b6b9ede-68aa-47f2-9451-566cc2d318af" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/f998afce-e66c-4769-a797-a0e8882d0482" />
 
